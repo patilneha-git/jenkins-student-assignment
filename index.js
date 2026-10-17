@@ -1,1 +1,1 @@
-﻿console.log("Hello World! Welcome to my Jenkins CI/CD assignment.");
+﻿console.log("Hello World! Jenkins automatic CI/CD pipeline test.");
